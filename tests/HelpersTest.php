@@ -1,6 +1,6 @@
 <?php
 
-namespace Nwidart\Modules\Tests;
+namespace AbnDevs\Modules\Tests;
 
 use Illuminate\Support\Str;
 

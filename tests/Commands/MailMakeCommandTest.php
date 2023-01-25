@@ -1,9 +1,9 @@
 <?php
 
-namespace Nwidart\Modules\Tests\Commands;
+namespace AbnDevs\Modules\Tests\Commands;
 
-use Nwidart\Modules\Contracts\RepositoryInterface;
-use Nwidart\Modules\Tests\BaseTestCase;
+use AbnDevs\Modules\Contracts\RepositoryInterface;
+use AbnDevs\Modules\Tests\BaseTestCase;
 use Spatie\Snapshots\MatchesSnapshots;
 
 class MailMakeCommandTest extends BaseTestCase

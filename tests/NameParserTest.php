@@ -1,8 +1,8 @@
 <?php
 
-namespace Nwidart\Modules\Tests;
+namespace AbnDevs\Modules\Tests;
 
-use Nwidart\Modules\Support\Migrations\NameParser;
+use AbnDevs\Modules\Support\Migrations\NameParser;
 
 class NameParserTest extends \PHPUnit\Framework\TestCase
 {

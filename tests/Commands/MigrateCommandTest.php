@@ -1,11 +1,11 @@
 <?php
 
-namespace Nwidart\Modules\Tests\Commands;
+namespace AbnDevs\Modules\Tests\Commands;
 
 use Illuminate\Support\Facades\Schema;
-use Nwidart\Modules\FileRepository;
-use Nwidart\Modules\Laravel\LaravelFileRepository;
-use Nwidart\Modules\Tests\BaseTestCase;
+use AbnDevs\Modules\FileRepository;
+use AbnDevs\Modules\Laravel\LaravelFileRepository;
+use AbnDevs\Modules\Tests\BaseTestCase;
 
 abstract class MigrateCommandTest extends BaseTestCase
 {

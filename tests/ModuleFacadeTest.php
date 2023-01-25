@@ -1,8 +1,8 @@
 <?php
 
-namespace Nwidart\Modules\Tests;
+namespace AbnDevs\Modules\Tests;
 
-use Nwidart\Modules\Facades\Module;
+use AbnDevs\Modules\Facades\Module;
 
 class ModuleFacadeTest extends BaseTestCase
 {

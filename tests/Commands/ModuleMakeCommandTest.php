@@ -1,12 +1,12 @@
 <?php
 
-namespace Nwidart\Modules\Tests\Commands;
+namespace AbnDevs\Modules\Tests\Commands;
 
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Str;
-use Nwidart\Modules\Contracts\ActivatorInterface;
-use Nwidart\Modules\Contracts\RepositoryInterface;
-use Nwidart\Modules\Tests\BaseTestCase;
+use AbnDevs\Modules\Contracts\ActivatorInterface;
+use AbnDevs\Modules\Contracts\RepositoryInterface;
+use AbnDevs\Modules\Tests\BaseTestCase;
 use Spatie\Snapshots\MatchesSnapshots;
 
 class ModuleMakeCommandTest extends BaseTestCase

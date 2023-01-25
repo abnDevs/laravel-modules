@@ -1,10 +1,10 @@
 <?php
 
-namespace Nwidart\Modules\Commands;
+namespace AbnDevs\Modules\Commands;
 
 use Illuminate\Filesystem\Filesystem;
-use Nwidart\Modules\Contracts\RepositoryInterface;
-use Nwidart\Modules\Tests\BaseTestCase;
+use AbnDevs\Modules\Contracts\RepositoryInterface;
+use AbnDevs\Modules\Tests\BaseTestCase;
 
 class ListCommandTest extends BaseTestCase
 {

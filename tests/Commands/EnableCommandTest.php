@@ -1,10 +1,10 @@
 <?php
 
-namespace Nwidart\Modules\Tests\Commands;
+namespace AbnDevs\Modules\Tests\Commands;
 
-use Nwidart\Modules\Contracts\RepositoryInterface;
-use Nwidart\Modules\Module;
-use Nwidart\Modules\Tests\BaseTestCase;
+use AbnDevs\Modules\Contracts\RepositoryInterface;
+use AbnDevs\Modules\Module;
+use AbnDevs\Modules\Tests\BaseTestCase;
 
 class EnableCommandTest extends BaseTestCase
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Nwidart\Modules\Tests;
+namespace AbnDevs\Modules\Tests;
 
-use Nwidart\Modules\Commands;
-use Nwidart\Modules\LaravelModulesServiceProvider;
+use AbnDevs\Modules\Commands;
+use AbnDevs\Modules\LaravelModulesServiceProvider;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
 abstract class BaseTestCase extends OrchestraTestCase

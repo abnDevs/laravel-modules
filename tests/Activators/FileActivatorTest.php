@@ -1,9 +1,9 @@
 <?php
 
-namespace Nwidart\Modules\Tests\Activators;
+namespace AbnDevs\Modules\Tests\Activators;
 
-use Nwidart\Modules\Activators\FileActivator;
-use Nwidart\Modules\Tests\BaseTestCase;
+use AbnDevs\Modules\Activators\FileActivator;
+use AbnDevs\Modules\Tests\BaseTestCase;
 use Spatie\Snapshots\MatchesSnapshots;
 
 class FileActivatorTest extends BaseTestCase
@@ -86,7 +86,7 @@ class FileActivatorTest extends BaseTestCase
     }
 }
 
-class TestModule extends \Nwidart\Modules\Laravel\Module
+class TestModule extends \AbnDevs\Modules\Laravel\Module
 {
     public function registerProviders(): void
     {

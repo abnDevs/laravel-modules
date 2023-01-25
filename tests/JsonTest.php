@@ -1,9 +1,9 @@
 <?php
 
-namespace Nwidart\Modules\Tests;
+namespace AbnDevs\Modules\Tests;
 
-use Nwidart\Modules\Exceptions\InvalidJsonException;
-use Nwidart\Modules\Json;
+use AbnDevs\Modules\Exceptions\InvalidJsonException;
+use AbnDevs\Modules\Json;
 
 class JsonTest extends BaseTestCase
 {
