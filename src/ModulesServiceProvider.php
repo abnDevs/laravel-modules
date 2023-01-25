@@ -44,7 +44,7 @@ abstract class ModulesServiceProvider extends ServiceProvider
         ], 'config');
 
         $this->publishes([
-            $stubsPath => base_path('stubs/AbnDevs-stubs'),
+            $stubsPath => base_path('stubs/abndevs-stubs'),
         ], 'stubs');
     }
 
